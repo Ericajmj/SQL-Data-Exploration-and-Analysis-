@@ -8,3 +8,10 @@ In this project, I used joins and filtering to analyze relational data across mu
 
 Joins, Filtering Data, Aggregate Functions, Subqueries, Grouping Data, and HAVING Clause.
 
+
+
+## Dataset used
+
+
+<ahref="https://github.com/Ericajmj/SQL-Data-Exploration-and-Analysis-/blob/main/employees.sql">Dataset </a>
+
