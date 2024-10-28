@@ -13,5 +13,5 @@ Joins, Filtering Data, Aggregate Functions, Subqueries, Grouping Data, and HAVIN
 ## Dataset used
 
 
-<a href="https://github.com/Ericajmj/SQL-Data-Exploration-and-Analysis-/blob/main/employees.sql">Dataset </a>
+<a href="https://github.com/Ericajmj/SQL-Data-Exploration-and-Analysis-/blob/main/employees.sql">Dataset sql </a>
 
